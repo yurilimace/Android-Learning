@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="Texto">Nome da Facul</string>
+    <string name="Entrada">Nome</string>
+    <string name="Cadastrar">Botao</string>
+</resources>
